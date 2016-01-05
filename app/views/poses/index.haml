@@ -1,7 +1,6 @@
 %h1 All Poses
 
-%ul
-  - @poses.each do |pose|
-    %li
-      = pose.english_name
-      = image_tag(pose.primary_photo)
+- @poses.each do |pose|
+  %li
+    = pose.english_name
+    = image_tag(pose.primary_photo)
