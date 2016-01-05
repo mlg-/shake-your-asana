@@ -2,4 +2,4 @@
 
 This app will allow an easy user interface for creating asana sequences.
 
-![chihuahua](http://i.imgur.com/rn8lzRc.webm)
+![chihuahua](http://barkpost.com/wp-content/uploads/2015/02/doga.jpg)
